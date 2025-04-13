@@ -1,3 +1,4 @@
+MANIFEST.in
 README.md
 setup.py
 custom_terminal/__init__.py
@@ -8,3 +9,6 @@ custom_terminal.egg-info/dependency_links.txt
 custom_terminal.egg-info/entry_points.txt
 custom_terminal.egg-info/requires.txt
 custom_terminal.egg-info/top_level.txt
+custom_terminal/commands/__init__.py
+custom_terminal/commands/base_commands.py
+custom_terminal/commands/weather.py
