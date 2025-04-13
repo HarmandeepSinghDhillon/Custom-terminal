@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: custom-terminal
+Version: 0.1.0
+Summary: A custom terminal with weather command
+Author: Your Name
+Author-email: your.email@example.com
+License: MIT
+Keywords: terminal weather cli
+License-File: LICENSE
+Requires-Dist: requests
+Dynamic: author
+Dynamic: author-email
+Dynamic: keywords
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
